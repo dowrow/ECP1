@@ -3,6 +3,7 @@ package es.upm.miw.ecp1;
 public class C11 {
 	
 	public String m1 () {
+		// Fixed error
 		return "m1";
 	}
 
